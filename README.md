@@ -1,19 +1,19 @@
 # Hi there! 👋 I'm Khawaja Saad Ayaz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Computer+Science+Undergraduate;Flutter+%7C+MERN+Stack+Developer;Cloud+%26+Full+Stack+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Computer+Science+Student;Flutter+%7C+Full+Stack+Developer;Backend+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionate about building innovative mobile and web applications that solve real-world problems. I enjoy developing scalable software using Flutter, Firebase, and the MERN Stack while exploring AI-driven solutions.
+I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing and building scalable, reliable, and impactful software solutions. I enjoy solving real-world problems, exploring new technologies, and continuously improving my skills through hands-on projects across mobile, web, backend, and cloud development.
 
 
-- 🎓 BS Computer Science
+- 🎓 BS Computer Science | Expected Graduation: December 2026
+- 📱 Building cross-platform applications with Flutter
+- 🌐 Building full-stack web applications using the MERN Stack
+- ☁️ Building backend services with Firebase, Cloud Functions, REST APIs, and cloud technologies
 - 🚀 Final Year Project: **AutiEase**, a Flutter-based autism therapy support platform
-- 🌐 Developing Full Stack Web Applications using the MERN Stack
-- ☁️ Working with Firebase, Cloud Functions, Cloud Deployment & Payment Gateway Integrations
-- 🧠 Currently exploring backend architecture patterns and cloud deployment practices
 - 💡 Interested in Mobile Development, Machine Learning, Backend Development & Cloud Computing
 
 ---
@@ -22,7 +22,7 @@ I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionat
 
 | 🧩 **[AutiEase](https://github.com/SaadAyazCS/AutiEase)** `🚧 In Progress` | ☁️ **[Cloud Cost Prediction](https://github.com/SaadAyazCS/Cloud-Cost-Prediction)** |
 |---|---|
-| Final Year Project — a cross-platform Flutter application built to support therapy for autistic children through interactive speech, motor skill and attention development activities. Includes separate Parent and Therapist portals with real-time progress tracking via Firebase, plus payment gateway integration research (PayFast, Swich, GateVia) for merchant payouts.<br/><br/>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white) | A full-stack ML application predicting hourly cloud infrastructure costs using three regression models (Linear Regression, Decision Tree, Random Forest). Built with a decoupled microservices architecture and deployed with Docker.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| Final Year Project — a cross-platform Flutter application designed to support therapy for autistic children through interactive speech, motor skill and attention development activities. The platform includes dedicated Parent and Therapist portals, real-time progress tracking with Firebase, and payment gateway integration supporting secure online payments and merchant payout workflows.<br/><br/>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white) | A full-stack ML application predicting hourly cloud infrastructure costs using three regression models (Linear Regression, Decision Tree, Random Forest). Built using a decoupled microservices architecture with containerized deployment using Docker.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)|
 
 ---
 
@@ -30,21 +30,21 @@ I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionat
 
 | 🌐 **[LuxMoto](https://github.com/SaadAyazCS/LuxMoto)** | ⛓️ **[Supply Chain Tracker](https://github.com/SaadAyazCS/supply-chain-blockchain)** `👥 Group Project` | 🧠 **[SmartRule](https://github.com/SaadAyazCS/SmartRule)** |
 |---|---|---|
-| A full-featured MERN stack car rental platform with authentication, real-time bookings, an admin panel and message management. | A blockchain-based supply chain tracking system built with Hyperledger Fabric, developed collaboratively as part of a team project. | A rule evaluation engine that lets users define conditional policies (grading, bonuses, discounts) in plain English-like syntax and evaluate them via a GUI. |
+| A full-stack MERN vehicle rental platform featuring secure authentication, vehicle listings, booking workflows, role-based administration, a messaging system, and responsive UI design. | A blockchain-based supply chain tracking system built with Hyperledger Fabric for secure and transparent product tracking across multiple stakeholders. | A rule evaluation engine that allows users to define and evaluate business rules using a simple English-like syntax through an interactive desktop application. |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 | 📊 **[Sentiment Analysis GUI](https://github.com/SaadAyazCS/Sentiment-Analysis-GUI)** | ⚡ **[Gaussian Blur — Serial vs Parallel (MPI)](https://github.com/SaadAyazCS/Gaussian-Blur-Serial-Parallel-with-MPI)** |
 |---|---|
-| A GUI-based sentiment analysis tool with TF-IDF feature extraction, CSV batch prediction and visualization. | Implements and benchmarks Serial vs Parallel (MPI) versions of the Gaussian Blur algorithm using domain decomposition and ghost cell communication. |
+| A GUI-based sentiment analysis tool with TF-IDF feature extraction, CSV batch prediction and visualization. | Compares and benchmarks serial and parallel (MPI) implementations of the Gaussian Blur algorithm using domain decomposition and ghost cell communication. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-6E4C13?style=flat-square) |
 
 ---
 
 ## 🏆 HIGHLIGHTS
 
-| 📱 Mobile Development | ☁️ Cloud Computing | 🌐 Full Stack Development | 📊 Data & Machine Learning |
+| 📱 Mobile Development | ☁️ Cloud Computing | 🌐 Full Stack Development | ⚙️ Software Engineering |
 |---|---|---|---|
-| Cross-platform Flutter applications with Firebase integration | Cloud deployment, microservices and Firebase Cloud Functions | Modern web applications using the MERN Stack and REST APIs | Applied ML for classification and prediction tasks using scikit-learn |
+| Cross-platform Flutter applications with Firebase integration | Cloud deployment, Docker, microservices and Firebase Cloud Functions | Modern web applications using the MERN Stack and REST APIs | Object-oriented design, REST APIs and scalable backend development |
 
 ---
 
@@ -59,6 +59,7 @@ I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionat
 </p>
 
 ---
+
 ## 📈 Contribution Graph
 
 [![Saad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadAyazCS&theme=tokyo-night)](https://github.com/SaadAyazCS)
@@ -67,6 +68,7 @@ I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionat
 ## 🐍 CONTRIBUTION SNAKE
 
 ![github contribution grid snake animation](https://github.com/SaadAyazCS/SaadAyazCS/raw/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 🛠 TECH STACK
@@ -89,6 +91,9 @@ I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionat
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Hyperledger_Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Databases & Backend Services**
 
@@ -104,21 +109,24 @@ I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionat
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase_Cloud_Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ## 📫 CONNECT WITH ME
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/khsaadayaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/SaadAyazCS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:kh.ayazsaad123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/khsaadayaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  
 </p>
 
 ---
