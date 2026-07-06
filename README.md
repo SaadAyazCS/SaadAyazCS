@@ -22,7 +22,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 
 | 🧩 **[AutiEase](https://github.com/SaadAyazCS/AutiEase)** `🚧 In Progress` | ☁️ **[Cloud Cost Prediction](https://github.com/SaadAyazCS/Cloud-Cost-Prediction)** |
 |---|---|
-| Final Year Project — a cross-platform Flutter application designed to support therapy for autistic children through interactive speech, motor skill and attention development activities. The platform includes dedicated Parent and Therapist portals, real-time progress tracking with Firebase, and payment gateway integration with secure online payment and merchant payout workflows<br/><br/>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white) | A full-stack ML application predicting hourly cloud infrastructure costs using three regression models (Linear Regression, Decision Tree, Random Forest). Built using a decoupled microservices architecture and deployed with Docker.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)|
+| Final Year Project — a cross-platform Flutter application designed to support therapy for autistic children through interactive speech, motor skill and attention development activities. The platform includes dedicated Parent and Therapist portals, real-time progress tracking with Firebase, and payment gateway integration with secure online payment and merchant payout workflows.<br/><br/>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white) | A full-stack ML application predicting hourly cloud infrastructure costs using three regression models (Linear Regression, Decision Tree, Random Forest). Built using a decoupled microservices architecture and deployed with Docker.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)|
 
 ---
 
@@ -44,7 +44,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 
 | 📱 Mobile Development | ☁️ Cloud Computing | 🌐 Full Stack Development | ⚙️ Software Engineering |
 |---|---|---|---|
-| Cross-platform Flutter applications with Firebase integration | Cloud deployment, Docker, microservices and Firebase Cloud Functions | Modern web applications using the MERN Stack and REST APIs | Object-oriented design, REST APIs and scalable backend development |
+| Cross-platform Flutter applications with Firebase integration | Cloud deployment, Docker, Firebase Cloud Functions, and microservices | Modern web applications using the MERN Stack and REST APIs | Object-oriented design, REST APIs and scalable backend development |
 
 ---
 
