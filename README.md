@@ -37,8 +37,6 @@ I'm **Khawaja Saad Ayaz**, a Computer Science undergraduate who has completed al
 | A GUI-based sentiment analysis tool with TF-IDF feature extraction, CSV batch prediction and visualization. | Implements and benchmarks Serial vs Parallel (MPI) versions of the Gaussian Blur algorithm using domain decomposition and ghost cell communication. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-6E4C13?style=flat-square) |
 
-> 👉 A few more academic and lab projects (ML classifiers, systems experiments) live on my GitHub — see pinned repos below or explore all repositories directly.
-
 ---
 
 ## 🏆 HIGHLIGHTS
