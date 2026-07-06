@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing and building scalable, reliable, and impactful software solutions. I enjoy solving real-world problems, exploring new technologies, and continuously improving my skills through hands-on projects across mobile, web, backend, and cloud development.
+I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing and building scalable, reliable, and impactful software solutions. I enjoy solving real-world problems, exploring new technologies, and continuously improving my skills by building real-world projects across mobile, web, backend, and cloud development.
 
 
 - 🎓 BS Computer Science | Expected Graduation: December 2026
@@ -14,7 +14,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 - 🌐 Building full-stack web applications using the MERN Stack
 - ☁️ Building backend services using Firebase, Cloud Functions, REST APIs, and cloud technologies
 - 🚀 Final Year Project: **AutiEase**, a Flutter-based autism therapy support platform
-- 💡 Interested in Mobile Development, Machine Learning, Backend Development & Cloud Computing
+- 💡 Interested in Mobile Development, Backend Development, Cloud Computing & Software Engineering
 
 ---
 
@@ -22,7 +22,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 
 | 🧩 **[AutiEase](https://github.com/SaadAyazCS/AutiEase)** `🚧 In Progress` | ☁️ **[Cloud Cost Prediction](https://github.com/SaadAyazCS/Cloud-Cost-Prediction)** |
 |---|---|
-| Final Year Project — a cross-platform Flutter application designed to support therapy for autistic children through interactive speech, motor skill and attention development activities. The platform includes dedicated Parent and Therapist portals, real-time progress tracking with Firebase, and payment gateway integration with secure online payment and merchant payout workflows.<br/><br/>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white) | A full-stack ML application predicting hourly cloud infrastructure costs using three regression models (Linear Regression, Decision Tree, Random Forest). Built using a decoupled microservices architecture and deployed with Docker.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)|
+| Final Year Project — a cross-platform Flutter application designed to support therapy for autistic children through interactive speech, motor skill and attention development activities. The platform includes dedicated Parent and Therapist portals, real-time progress tracking with Firebase, and payment gateway integration supporting secure online payment and merchant payout workflows.<br/><br/>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white) | A full-stack ML application predicting hourly cloud infrastructure costs using three regression models (Linear Regression, Decision Tree, Random Forest). Built using a decoupled microservices architecture with Docker-based containerized deployment.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)|
 
 ---
 
@@ -44,7 +44,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 
 | 📱 Mobile Development | ☁️ Cloud Computing | 🌐 Full Stack Development | ⚙️ Software Engineering |
 |---|---|---|---|
-| Cross-platform Flutter applications with Firebase integration | Cloud deployment, Docker, Firebase Cloud Functions, and microservices | Modern web applications using the MERN Stack and REST APIs | Object-oriented design, REST APIs and scalable backend development |
+| Cross-platform Flutter applications with Firebase integration | Cloud deployment, Docker, Firebase Cloud Functions, and microservices | Modern web applications using the MERN Stack and REST APIs | Object-oriented design, software architecture, REST APIs, and scalable backend development |
 
 ---
 
@@ -56,6 +56,10 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaadAyazCS&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadAyazCS&theme=tokyonight" />
 </p>
 
 ---
@@ -106,17 +110,19 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase_Cloud_Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white)
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I'm currently seeking **Software Engineering, Flutter, Full Stack, or Backend Development internship opportunities** where I can contribute, learn, and grow while building impactful software. If you're hiring interns or would like to collaborate, feel free to connect with me through **LinkedIn** or **Email** below.
+I'm actively seeking Software Engineering, Flutter, Full Stack, or Backend Development internship opportunities where I can apply my skills, contribute to meaningful projects, and continue growing as a software engineer.
+
+Feel free to connect with me via LinkedIn or email. I'm always open to discussing internships, collaborations, and exciting software projects.
 
 ---
 
