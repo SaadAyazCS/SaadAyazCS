@@ -6,9 +6,10 @@
 
 ## 👨‍💻 About Me
 
-I'm **Khawaja Saad Ayaz**, a Computer Science undergraduate who has completed all coursework and is currently working on my Final Year Project. I enjoy building scalable mobile and web applications using Flutter, Firebase and the MERN Stack, and exploring cloud computing and data-driven solutions along the way.
+I'm **Khawaja Saad Ayaz**, a Final Year Computer Science undergraduate passionate about building innovative mobile and web applications that solve real-world problems. I enjoy developing scalable software using Flutter, Firebase, and the MERN Stack while exploring AI-driven solutions.
 
-- 🎓 BS Computer Science | Graduation Expected December 2026
+
+- 🎓 BS Computer Science
 - 🚀 Final Year Project: **AutiEase**, a Flutter-based autism therapy support platform
 - 🌐 Developing Full Stack Web Applications using the MERN Stack
 - ☁️ Working with Firebase, Cloud Functions, Cloud Deployment & Payment Gateway Integrations
