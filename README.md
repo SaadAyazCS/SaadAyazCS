@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Khawaja Saad Ayaz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Computer+Science+Student;Flutter+%7C+Full+Stack+Developer;Backend+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Computer+Science+Graduate;Flutter+%7C+Full+Stack+Developer;Backend+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
