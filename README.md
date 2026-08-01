@@ -6,10 +6,10 @@
 
 ## 👨‍💻 About Me
 
-I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing and building scalable, reliable, and impactful software solutions. I enjoy solving real-world problems, exploring new technologies, and continuously improving my skills by building real-world projects across mobile, web, backend, and cloud development.
+I'm **Khawaja Saad Ayaz**, a Computer Science Graduate passionate about designing and building scalable, reliable, and impactful software solutions. I enjoy solving real-world problems, exploring new technologies, and continuously improving my skills by building real-world projects across mobile, web, backend, and cloud development.
 
 
-- 🎓 BS Computer Science | Expected Graduation: December 2026
+- 🎓 BS Computer Science
 - 📱 Building cross-platform applications with Flutter
 - 🌐 Building full-stack web applications using the MERN Stack
 - ☁️ Building backend services using Firebase, Cloud Functions, REST APIs, and cloud technologies
@@ -20,7 +20,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 
 ## ⭐ LATEST PROJECTS
 
-| 🧩 **[AutiEase](https://github.com/SaadAyazCS/AutiEase)** `🚧 In Progress` | ☁️ **[Cloud Cost Prediction](https://github.com/SaadAyazCS/Cloud-Cost-Prediction)** |
+| 🧩 **[AutiEase](https://github.com/SaadAyazCS/AutiEase)** | ☁️ **[Cloud Cost Prediction](https://github.com/SaadAyazCS/Cloud-Cost-Prediction)** |
 |---|---|
 | Final Year Project — a cross-platform Flutter application designed to support therapy for autistic children through interactive speech, motor skill and attention development activities. The platform includes dedicated Parent and Therapist portals, real-time progress tracking with Firebase, and payment gateway integration supporting secure online payment and merchant payout workflows.<br/><br/>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=flat-square&logo=firebase&logoColor=white) | A full-stack ML application predicting hourly cloud infrastructure costs using three regression models (Linear Regression, Decision Tree, Random Forest). Built using a decoupled microservices architecture with Docker-based containerized deployment.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)|
 
@@ -28,7 +28,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science student passionate about designing
 
 ## 🔥 MORE PROJECTS
 
-| 🌐 **[LuxMoto](https://github.com/SaadAyazCS/LuxMoto)** | ⛓️ **[Supply Chain Tracker](https://github.com/SaadAyazCS/supply-chain-blockchain)** `👥 Group Project` | 🧠 **[SmartRule](https://github.com/SaadAyazCS/SmartRule)** |
+| 🌐 **[LuxMoto](https://github.com/SaadAyazCS/LuxMoto)** | ⛓️ **[Supply Chain Tracker](https://github.com/SaadAyazCS/supply-chain-blockchain)** | 🧠 **[SmartRule](https://github.com/SaadAyazCS/SmartRule)** |
 |---|---|---|
 | A full-stack MERN vehicle rental platform featuring secure authentication, vehicle listings, booking workflows, role-based administration, and responsive UI design. | A blockchain-based supply chain tracking system built with Hyperledger Fabric for secure and transparent product tracking across multiple stakeholders. | A rule evaluation engine that allows users to define and evaluate business rules using a simple English-like syntax through an interactive desktop application. |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
