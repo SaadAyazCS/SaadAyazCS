@@ -10,7 +10,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science Graduate passionate about designin
 
 
 - 🎓 BS Computer Science
-- 📱   Building cross-platform applications with Flutter
+- 📱 Building cross-platform applications with Flutter
 - 🌐 Building full-stack web applications using the MERN Stack
 - ☁️ Building backend services using Firebase, Cloud Functions, REST APIs, and cloud technologies
 - 🚀 Final Year Project: **AutiEase**, a Flutter-based autism therapy support platform
