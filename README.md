@@ -58,8 +58,12 @@ I'm **Khawaja Saad Ayaz**, a Computer Science Graduate passionate about designin
 <img src="https://github-readme-streak-stats-eight.vercel.app/api?user=SaadAyazCS&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📈 CONTRIBUTION GRAPH
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadAyazCS&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadAyazCS&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ---
