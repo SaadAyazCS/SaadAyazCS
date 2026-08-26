@@ -55,7 +55,7 @@ I'm **Khawaja Saad Ayaz**, a Computer Science Graduate passionate about designin
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaadAyazCS&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SaadAyazCS&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30&v=1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/api?user=SaadAyazCS&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
 <p align="center">
